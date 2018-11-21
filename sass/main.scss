@@ -79,11 +79,6 @@ body {
         animation-timing-function: ease-out;
     }
     
-    /*
-    animation-delay: 3s;
-    animation-iteration-count: 3;
-    */
-    
     &--sub {
         display: block;
         font-size: 2rem;
@@ -95,8 +90,6 @@ body {
         animation-timing-function: ease-out;
     }
 }
-
-
 
 @keyframes moveInLeft {
     0% {
